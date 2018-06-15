@@ -4,7 +4,7 @@ module.exports.users = [
     age: 19,
     occupation: 'Lawyer',
     married: true,
-    children: ['John', 'Edson', 'ruby']
+    children: ['John', 'Edson', 'Ruby']
   },
 
   {
